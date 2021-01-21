@@ -22,7 +22,7 @@
     "react-router": "^4.2.0",
     "react-scripts": "^3.4.1",
     "simple-peer": "^8.1.1",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.4.0",
     "torrent-tracker": "^0.1.0",
     "webtorrent": "^0.108.1"
   },
